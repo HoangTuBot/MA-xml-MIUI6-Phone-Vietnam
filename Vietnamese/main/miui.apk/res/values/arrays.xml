@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="solar_terms">
+    </string-array>
+    <string-array name="detailed_am_pms">
+    </string-array>
+    <string-array name="am_pms">
+    </string-array>
+    <string-array name="chinese_digits">
+    </string-array>
+    <string-array name="chinese_days">
+    </string-array>
+    <string-array name="chinese_leap_months">
+    </string-array>
+    <string-array name="chinese_months">
+    </string-array>
+    <string-array name="heavenly_stems">
+    </string-array>
+    <string-array name="earthly_branches">
+    </string-array>
+    <string-array name="months">
+    </string-array>
+    <string-array name="months_short">
+    </string-array>
+    <string-array name="months_shortest">
+    </string-array>
+    <string-array name="chinese_symbol_animals">
+    </string-array>
+    <string-array name="eras">
+    </string-array>
+    <string-array name="week_days">
+    </string-array>
+    <string-array name="week_days_short">
+    </string-array>
+    <string-array name="week_days_shortest">
+    </string-array>
+</resources>

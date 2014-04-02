@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_video_quality_entries">
+    </string-array>
+    <string-array name="pref_video_quality_entryvalues">
+        <item>6</item>
+        <item>4</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_video_time_lapse_frame_interval_entryvalues">
+        <item>0</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>10000</item>
+        <item>12000</item>
+        <item>15000</item>
+        <item>24000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>90000</item>
+        <item>120000</item>
+        <item>150000</item>
+        <item>180000</item>
+        <item>240000</item>
+        <item>300000</item>
+        <item>360000</item>
+        <item>600000</item>
+        <item>720000</item>
+        <item>900000</item>
+        <item>1440000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>5400000</item>
+        <item>7200000</item>
+        <item>9000000</item>
+        <item>10800000</item>
+        <item>14400000</item>
+        <item>18000000</item>
+        <item>21600000</item>
+        <item>36000000</item>
+        <item>43200000</item>
+        <item>54000000</item>
+        <item>86400000</item>
+    </string-array>
+    <string-array name="pref_video_time_lapse_frame_interval_entries">
+    </string-array>
+    <string-array name="pref_video_time_lapse_frame_interval_duration_values">
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>10</item>
+        <item>12</item>
+        <item>15</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="pref_video_time_lapse_frame_interval_units">
+    </string-array>
+    <string-array name="pref_camera_picturesize_entries">
+        <item>960 x 720</item>
+        <item>720 x 480</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entryvalues">
+        <item>4128x3096</item>
+        <item>3264x2448</item>
+        <item>2592x1944</item>
+        <item>2592x1936</item>
+        <item>2560x1920</item>
+        <item>2688x1520</item>
+        <item>2048x1536</item>
+        <item>2048x1520</item>
+        <item>1600x1200</item>
+        <item>1920x1088</item>
+        <item>1920x1080</item>
+        <item>1440x1080</item>
+        <item>1280x960</item>
+        <item>1280x720</item>
+        <item>1024x768</item>
+        <item>960x720</item>
+        <item>720x480</item>
+        <item>640x480</item>
+        <item>320x240</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entries">
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>auto</item>
+        <item>infinity</item>
+        <item>macro</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_labels">
+    </string-array>
+    <string-array name="pref_camera_flashmode_entries">
+    </string-array>
+    <string-array name="pref_camera_flashmode_labels">
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
+    </string-array>
+    <array name="camera_flashmode_icons">
+    </array>
+    <array name="camera_flashmode_largeicons">
+    </array>
+    <string-array name="pref_camera_video_flashmode_entries">
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_labels">
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>torch</item>
+        <item>off</item>
+    </string-array>
+    <array name="video_flashmode_icons">
+    </array>
+    <array name="video_flashmode_largeicons">
+    </array>
+    <string-array name="pref_camera_recordlocation_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_recordlocation_entries">
+    </string-array>
+    <string-array name="pref_camera_recordlocation_labels">
+    </string-array>
+    <array name="camera_recordlocation_icons">
+    </array>
+    <array name="camera_recordlocation_largeicons">
+    </array>
+    <string-array name="pref_camera_whitebalance_entries">
+    </string-array>
+    <string-array name="pref_camera_whitebalance_labels">
+    </string-array>
+    <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>incandescent</item>
+        <item>fluorescent</item>
+        <item>auto</item>
+        <item>daylight</item>
+        <item>cloudy-daylight</item>
+    </string-array>
+    <array name="whitebalance_icons">
+    </array>
+    <array name="whitebalance_largeicons">
+    </array>
+    <array name="camera_wb_indicators">
+    </array>
+    <string-array name="pref_camera_scenemode_entries">
+    </string-array>
+    <string-array name="pref_camera_scenemode_labels">
+    </string-array>
+    <array name="pref_camera_scenemode_icons">
+    </array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>action</item>
+        <item>night</item>
+        <item>auto</item>
+        <item>sunset</item>
+        <item>party</item>
+    </string-array>
+    <string-array name="camera_id_entries">
+    </string-array>
+    <string-array name="camera_id_labels">
+    </string-array>
+    <array name="camera_id_icons">
+    </array>
+    <array name="camera_id_largeicons">
+    </array>
+    <string-array name="pref_video_effect_entries">
+    </string-array>
+    <array name="pref_video_effect_entryvalues">
+        <item>goofy_face/squeeze</item>
+        <item>goofy_face/big_eyes</item>
+        <item>goofy_face/big_mouth</item>
+        <item>goofy_face/small_mouth</item>
+        <item>goofy_face/big_nose</item>
+        <item>goofy_face/small_eyes</item>
+        <item>backdropper/file:///system/media/video/AndroidInSpace.480p.mp4</item>
+        <item>backdropper/file:///system/media/video/Sunset.480p.mp4</item>
+        <item>backdropper/gallery</item>
+    </array>
+    <array name="video_effect_icons">
+    </array>
+    <string-array name="pref_camera_hdr_plus_entries">
+    </string-array>
+    <string-array name="pref_camera_hdr_plus_labels">
+    </string-array>
+    <array name="pref_camera_hdr_plus_icons">
+    </array>
+    <string-array name="pref_camera_hdr_plus_entryvalues">
+    </string-array>
+    <string-array name="pref_camera_hdr_entries">
+    </string-array>
+    <string-array name="pref_camera_hdr_labels">
+    </string-array>
+    <array name="pref_camera_hdr_icons">
+    </array>
+    <string-array name="pref_camera_hdr_entryvalues">
+    </string-array>
+    <string-array name="pref_camera_timer_sound_entries">
+    </string-array>
+    <string-array name="pref_camera_timer_sound_entryvalues">
+    </string-array>
+    <string-array name="pref_camera_focusmode_default_array">
+        <item>continuous-picture</item>
+        <item>auto</item>
+    </string-array>
+    <array name="pref_camera_exposure_icons">
+    </array>
+    <string-array name="pref_camera_countdown_labels">
+    </string-array>
+</resources>

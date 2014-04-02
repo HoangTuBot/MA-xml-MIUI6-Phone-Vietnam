@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activate">Activate</string>
+  <string name="activate_fail_notification_title">Reactivate sync</string>
+  <string name="app_name">Xiaomi sync</string>
+  <string name="check_phone_error_title">Sync service not enabled</string>
+  <string name="check_phone_io_error">Network error</string>
+  <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
+  <string name="error_not_acceptable">Server error: Sync disabled.</string>
+  <string name="error_title">Sync error</string>
+  <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
+  <string name="find_device">Locate device</string>
+  <string name="find_device_noise_title">Locate device sound</string>
+  <string name="find_device_stop_noise">Stop</string>
+  <string name="no_sim">No SIM card detected</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Don't use mobile data connection to sync contact photos"</string>
+  <string name="pref_title_sync_contacts_title">Sync contacts</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Display photos via Wi-Fi</string>
+  <string name="send_sms_for_sync_notice">An activation text will be sent automatically (normal rates apply).</string>
+  <string name="send_sms_for_sync_title">Sync service not activated</string>
+  <string name="sim_changed_reactivate_int_notice">Current SIM is deactivated. An activation text will be sent automatically (international rates apply).</string>
+  <string name="sim_changed_reactivate_notice">Current SIM is deactivated. An activation text will be sent automatically (normal rates apply).</string>
+  <string name="sim_in_airplane_mode">You need to disable airplane mode.</string>
+  <string name="sim_locked">SIM card is locked</string>
+  <string name="sim_not_ready">SIM card in use. Try again later.</string>
+  <string name="sim_unavailable">SIM card unavailable</string>
+  <string name="sub_sync_item_sms_summary">"Don't use mobile data connection to sync multimedia messages"</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Sync MMS via Wi-Fi only</string>
+  <string name="sync_item_sms_summary">Turn on after messages have been synced</string>
+  <string name="sync_item_sms_title">Sync text messages</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+</resources>
