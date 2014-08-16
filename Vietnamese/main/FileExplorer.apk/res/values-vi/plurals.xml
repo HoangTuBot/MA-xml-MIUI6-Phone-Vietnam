@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="directory_item_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">1 item</item>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Xóa %1$d tập tin</item>
+        <item quantity="zero">Xóa %1$d tập tin</item>
+        <item quantity="one">Xóa %1$d tập tin</item>
+        <item quantity="two">Xóa %1$d tập tin</item>
+        <item quantity="few">Xóa %1$d tập tin</item>
+        <item quantity="many">Xóa %1$d tập tin</item>
     </plurals>
-    <plurals name="numSelectedFile">
-        <item quantity="other">" %1$d items selected"</item>
-        <item quantity="zero">%1$d items selected</item>
-        <item quantity="one">%1$d item selected</item>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" và %1$d thư mục?"</item>
+        <item quantity="zero">" và %1$d thư mục?"</item>
+        <item quantity="one">" và %1$d thư mục?"</item>
+        <item quantity="two">" và %1$d thư mục?"</item>
+        <item quantity="few">" và %1$d thư mục?"</item>
+        <item quantity="many">" và %1$d thư mục?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d mục</item>
+        <item quantity="zero">%d mục</item>
+        <item quantity="one">%d mục</item>
+        <item quantity="two">%d mục</item>
+        <item quantity="few">%d mục</item>
+        <item quantity="many">%d mục</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d tập tin chờ tải về</item>
+        <item quantity="zero">%1$d tập tin chờ tải về</item>
+        <item quantity="one">%1$d tập tin chờ tải về</item>
+        <item quantity="two">%1$d tập tin chờ tải về</item>
+        <item quantity="few">%1$d tập tin chờ tải về</item>
+        <item quantity="many">%1$d tập tin chờ tải về</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d tập tin chờ tải lên</item>
+        <item quantity="zero">%1$d tập tin chờ tải lên</item>
+        <item quantity="one">%1$d tập tin chờ tải lên</item>
+        <item quantity="two">%1$d tập tin chờ tải lên</item>
+        <item quantity="few">%1$d tập tin chờ tải lên</item>
+        <item quantity="many">%1$d tập tin chờ tải lên</item>
     </plurals>
 </resources>

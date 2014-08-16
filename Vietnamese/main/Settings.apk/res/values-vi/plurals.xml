@@ -1,43 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ngày "</item>
+        <item quantity="one">"%d ngày "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d giờ "</item>
+        <item quantity="one">"%d giờ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d phút "</item>
+        <item quantity="one">"%d phút "</item>
+    </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a developer.</item>
-        <item quantity="one">You are now %1$d step away from being a developer.</item>
+        <item quantity="other">Bạn còn %1$d bước nữa là trở thành nhà phát triển.</item>
+        <item quantity="one">Bạn còn %1$d bước nữa là trở thành nhà phát triển.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Password must contain at least %d letters.</item>
-        <item quantity="one">Password must contain at least 1 letter.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ cái.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Password must contain at least %d lowercase letters.</item>
-        <item quantity="one">Password must contain at least 1 lowercase letter.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ thường.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ thường.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Password must contain at least %d uppercase letters.</item>
-        <item quantity="one">Password must contain at least 1 uppercase letter.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ hoa.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ hoa.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Password must contain at least %d numerical digits.</item>
-        <item quantity="one">Password must contain at least 1 numerical digit.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ số.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ số.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Password must contain at least %d special symbols.</item>
-        <item quantity="one">Password must contain at least 1 special symbol.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d ký tự đặc biệt.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự đặc biệt.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Password must contain at least %d non-letter characters.</item>
-        <item quantity="one">Password must contain at least 1 non-letter character.</item>
+        <item quantity="other">Mật khẩu phải có ít nhất %d ký tự không phải chữ cái.</item>
+        <item quantity="one">Mật khẩu phải có ít nhất 1 ký tự không phải chữ cái.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d apps can read notifications</item>
-        <item quantity="one">%d app can read notifications</item>
+        <item quantity="other">%d ứng dụng có thể đọc thông báo</item>
+        <item quantity="one">%d ứng dụng có thể đọc thông báo</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Mã PIN của SIM không chính xác, bạn còn %d lần thử.</item>
+        <item quantity="one">Mã PIN của SIM không chính xác, bạn còn %d lần thử trước khi bạn phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của bạn.</item>
     </plurals>
     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">%1$s printers found</item>
-        <item quantity="one">%1$s printer found</item>
+        <item quantity="other">Đã tìm thấy %1$s máy in</item>
+        <item quantity="one">Đã tìm thấy %1$s máy in</item>
     </plurals>
 </resources>

@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="calendar_default_name">Default</string>
-  <string name="calendar_info">Calendar info</string>
-  <string name="calendar_info_error">Error</string>
-  <string name="calendar_info_events">Events: %1$d</string>
-  <string name="calendar_info_events_dirty">Events: %1$d, Unsaved: %2$d</string>
-  <string name="calendar_info_no_calendars">No calendars</string>
-  <string name="calendar_storage">Calendar Storage</string>
-  <string name="debug_tool_delete_button">Delete now</string>
-  <string name="debug_tool_email_body">Attached is my Calendar database with all my appointments and personal information. Handle with care.</string>
-  <string name="debug_tool_email_sender_picker">Choose a program to send your file</string>
-  <string name="debug_tool_email_subject">Calendar Db attached</string>
-  <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the SD card/USB storage, which is readable by any app, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-  <string name="debug_tool_start_button">Start</string>
-  <string name="holiday_data_no_network">No network, please try again later</string>
-  <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
-  <string name="holiday_data_update_succeed">Check for completed update</string>
-  <string name="holiday_data_updating">Updating...</string>
-  <string name="holiday_update_summary">Click check updates</string>
-  <string name="holiday_update_title">Work days data need connect network and update</string>
-  <string name="provider_label">Calendar</string>
-  <string name="upgrade_msg">Upgrading Calendar database.</string>
+    <string name="calendar_storage">Lưu trữ Lịch</string>
+    <string name="upgrade_msg">Đang nâng cấp cơ sở dữ liệu Lịch.</string>
+    <string name="calendar_default_name">Mặc định</string>
+    <string name="calendar_info">Thông tin lịch</string>
+    <string name="calendar_info_error">Lỗi</string>
+    <string name="calendar_info_no_calendars">Không có lịch.</string>
+    <string name="calendar_info_events">Sự kiện: %1$d</string>
+    <string name="calendar_info_events_dirty">Sự kiện: %1$d, Chưa lưu: %2$d</string>
+    <string name="provider_label">Lịch</string>
+    <string name="debug_tool_delete_button">Xóa ngay bây giờ</string>
+    <string name="debug_tool_start_button">Bắt đầu</string>
+    <string name="debug_tool_message">Bạn sắp 1) sao chép cơ sở dữ liệu lịch của mình vào thẻ SD/bộ nhớ USB mà bất kỳ ứng dụng nào cũng có thể đọc và 2) gửi email bản sao đó. Hãy nhớ xóa bản sao đó khỏi thiết bị ngay khi bạn đã sao chép thành công hoặc email đã được nhận.</string>
+    <string name="debug_tool_email_sender_picker">Chọn chương trình để gửi tập tin của bạn</string>
+    <string name="debug_tool_email_subject">Dữ liệu Lịch đã đính kèm</string>
+    <string name="debug_tool_email_body">Phần đính kèm là cơ sở dữ liệu lịch của tôi với tất cả các cuộc hẹn và thông tin cá nhân. Hãy cẩn trọng khi xử lý.</string>
+    <string name="holiday_update_title">Dữ liệu ngày làm việc cần kết nối mạng và cập nhật</string>
+    <string name="holiday_update_summary">Nhấp vào Kiểm tra cập nhật</string>
+    <string name="holiday_data_updating">Đang cập nhật…</string>
+    <string name="holiday_data_update_failed">Kiểm tra các bản cập nhật bị lỗi, vui lòng thử lại sau.</string>
+    <string name="holiday_data_update_succeed">Kiểm tra các bản cập nhật hoàn tất</string>
+    <string name="holiday_data_no_network">Không có mạng, vui lòng thử lại sau</string>
 </resources>

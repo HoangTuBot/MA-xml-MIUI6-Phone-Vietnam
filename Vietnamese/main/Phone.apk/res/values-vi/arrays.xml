@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_types">
+        <item>Thoại</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Mặc định mạng</item>
+        <item>Ẩn số</item>
+        <item>Hiện số</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Tiếng Anh</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Tây Ban Nha</item>
+        <item>Tiếng Nhật</item>
+        <item>Tiếng Hàn</item>
+        <item>Tiếng Trung</item>
+        <item>Tiếng Do Thái</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Chỉ trong nước</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Tắt TTY</item>
+        <item>TTY Đầy đủ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Thường</item>
+        <item>Dài</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi im lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
+</resources>
