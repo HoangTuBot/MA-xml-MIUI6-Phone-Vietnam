@@ -1,4 +1,4 @@
-# MIUIAndroid MIUIv6 Vietnamese Translations for Phone.
+# MIUIAndroid MIUI 6 Vietnamese Translations for Phone.
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
